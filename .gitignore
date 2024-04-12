@@ -1,0 +1,8 @@
+﻿.idea
+.fleet
+.vscode
+*.BridgeLabelsAndRatings
+log
+projects
+temp
+vendor

@@ -1,0 +1,12 @@
+[
+  {
+    "file": "message",
+    "force": "^(\\w+) = ",
+    "del": ""
+  },
+  {
+    "file": "actions/print",
+    "force": "^function (\\w+)\\(",
+    "del": ""
+  }
+]
